@@ -30,7 +30,7 @@ Upload a single-line melody (MusicXML/MXL/MIDI), and the system automatically ge
 
 ## 🎬 Demo
 
-**Try it online**: [ModelScope Space](https://www.modelscope.cn/studios/JeffreyZhou2026/Melody_Orchestrator_03/)
+**Try it online**: [ModelScope Space](https://www.modelscope.cn/studios/JeffreyZhou2026/Melody_Orchestrator_03/)https://www.modelscope.cn/studios/JeffreyZhou2026/Melody_Orchestrator_03/
 
 ### Screenshot
 
